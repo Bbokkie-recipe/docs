@@ -90,7 +90,7 @@ exclude: [_site, CHANGELOG.md, LICENSE, README.md, vendor]
 collections:
   docs:
     output: true
-    permalink: /:collection/:path
+    permalink: /docsy/:path
 
 # Defaults
 defaults:
